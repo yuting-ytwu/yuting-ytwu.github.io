@@ -2200,8 +2200,8 @@ input, select, textarea {
 .talent { width: 32%; float: left }
 .talent h2 { margin-bottom: 6px; }
 
-.resume button{ width: 32%; float: left; background-color:#FDF5E6; color:#191970; }
-
+.resume button{ width: 18%; float: left; background-color:#FFFFFF; color:#B22222; }
+.resume button:hover{ font-weight:bold; color:#A52A2A; }
 
 /* --// override to force 1/8th width grids -- */
 .resume {width:98%;}

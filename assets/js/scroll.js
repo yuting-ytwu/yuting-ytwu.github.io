@@ -6,5 +6,5 @@ function scrollToView (element) {
 	
 	$('html, body').animate({
         scrollTop:$('#'+element.value).offset().top
-    }, 3000);
+    }, 1500);
 }
